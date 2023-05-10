@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Churchil Owino
 ======================================================================================================================================
 
-Front-end Developer
+Front-end Software Developer
 -------------------
 
-I am a front-end developer who loves building stunning, accessible, and responsive web applications using React.js and Next.js.
+I am a front-end software developer who loves building stunning, accessible, and responsive web applications using Next.js and React.js.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://www.churchilowino.com/)
