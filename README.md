@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Software Developer
 -------------------
 
-I am a front-end software developer who loves building stunning, accessible, and responsive web applications using Next.js and React.js.
+I am a full-stack software developer who loves building stunning, accessible, and responsive web applications using React.js, Next.js, and Node.js.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://www.churchilowino.com/)
 * ✉️  You can contact me at [chachowino75@gmail.com](mailto:chachowino75@gmail.com)
 * 🚀  I'm currently working on [Events App](http://eventour-app.vercel.app/)
-* 🧠  I'm learning Node.js and React Native
+* 🧠  I'm currently learning React Native and mobile development.
 * 🤝  I'm open to collaborating on interesting front-end projects that aim to provide immersive and rich experiences to end users.
 * ⚡  I am a perfectionist, and I love front-end development because I feel it's a space where I can aim for perfection as much as humanly possible!
 
