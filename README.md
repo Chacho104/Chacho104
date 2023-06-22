@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Churchil Owino
 ======================================================================================================================================
 
-Front-end Software Developer
+Software Developer
 -------------------
 
 I am a full-stack software developer who loves building stunning, accessible, and responsive web applications using React.js, Next.js, and Node.js.
