@@ -12,7 +12,7 @@ I am a full-stack software developer who loves building stunning, accessible, an
 * 🚀  I'm currently working on [Events App](http://eventour-app.vercel.app/)
 * 🧠  I'm currently learning React Native and mobile development.
 * 🤝  I'm open to collaborating on interesting front-end projects that aim to provide immersive and rich experiences to end users.
-* ⚡  I am a perfectionist, and I love front-end development because I feel it's a space where I can aim for perfection as much as humanly possible!
+* ⚡  I am a perfectionist, and I love front-end development because it's a space where I can aim for perfection as much as humanly possible!
 
 ### Skills
 
