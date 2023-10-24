@@ -9,10 +9,10 @@ I am a full-stack software developer who loves building stunning, accessible, an
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://www.churchilowino.com/)
 * ✉️  You can contact me at [chachowino75@gmail.com](mailto:chachowino75@gmail.com)
-* 🚀  I'm currently working on [Events App](http://eventour-app.vercel.app/)
-* 🧠  I'm currently learning React Native and mobile development.
-* 🤝  I'm open to collaborating on interesting front-end projects that aim to provide immersive and rich experiences to end users.
-* ⚡  I am a perfectionist, and I love front-end development because it's a space where I can aim for perfection as much as humanly possible!
+* 🚀  I'm currently working on [Saruk E-commerece Store](https://www.saruk.co.ke/). The project involves completely redesigning and rebuilding the front-end store and admin dashbord using modern, fast, and secure technologies. Check out the progress of the new looking store here [Saruk New E-commerece Store](https://saruk-frontend.vercel.app/).
+* 🧠  I'm currently learning diving deep into React and Next, to bolster my technical knowledge of the frameworks.
+* 🤝  I'm open to collaborating on interesting full-stack projects that aim to provide immersive and rich experiences to end users.
+* ⚡  Building for the web sets my heart on fire!
 
 ### Skills
 
