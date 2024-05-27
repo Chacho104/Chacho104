@@ -7,7 +7,7 @@ Software Developer
 I am a full-stack software developer who loves building stunning, accessible, and responsive web applications using React.js, Next.js, and Node.js.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [My Portfolio](http://www.churchilowino.com/)
+* 🖥️  See my portfolio at [My Portfolio](http://www.chachowino.com/)
 * ✉️  You can contact me at [chachowino75@gmail.com](mailto:chachowino75@gmail.com)
 * 🚀  I'm currently working on [Saruk E-commerce Store](https://www.saruk.co.ke/). The project involves completely redesigning and rebuilding the front-end store and admin dashbord using modern, fast, and secure technologies.
 * 🧠  I'm currently diving deep into React and Next, to bolster my technical knowledge of the frameworks.
