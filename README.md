@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Churchil Owino
 ======================================================================================================================================
 
-Software Developer
+Software Engineer
 -------------------
 
-I am a full-stack software developer who loves building stunning, accessible, and responsive web applications using React.js, Next.js, and Node.js.
+I am an innovative full-stack software engineer with a passion for crafting dynamic, interactive, and accessible web and mobile apps. Expert in JavaScript, TypeScript, React, and Next.js, I bring ideas to life with a focus on detail, responsiveness, and a seamless user experience.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://www.chachowino.com/)
