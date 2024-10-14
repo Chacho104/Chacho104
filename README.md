@@ -11,8 +11,8 @@ I am an innovative full-stack web and android developer with a passion for craft
 * ✉️  You can contact me at [chachowino75@gmail.com](mailto:chachowino75@gmail.com)
 * 🚀  I'm currently working on [Saruk E-commerce Store](https://www.saruk.co.ke/). The project involves completely redesigning and rebuilding the front-end store and admin dashbord using modern, fast, and secure technologies.
 * 🧠  I'm currently diving deep into React and Next, to bolster my technical knowledge of the frameworks.
-* 🤝  I'm open to collaborating on interesting full-stack projects that aim to provide immersive and rich experiences to end users.
-* ⚡  Building for the web sets my heart on fire!
+* 🤝  I'm open to collaborating on projects that aim to provide immersive and rich experiences to end users.
+* ⚡  Building software sets my heart on fire!
 
 ### Skills
 
