@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -------------------
 
-I am an innovative full-stack web and android developer with a passion for crafting dynamic, interactive, and accessible web and mobile apps. Expert in JavaScript, TypeScript, React, Next.js, and Kotlin I bring ideas to life with a focus on detail, responsiveness, and a seamless user experience.
+I am a full-stack web and mobile applications developer with a passion for crafting dynamic, interactive, and accessible web and mobile apps. Expert in JavaScript, TypeScript, React, Next.js, and Kotlin I bring ideas to life with a focus on detail, responsiveness, and a seamless user experience.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [My Portfolio](http://www.chachowino.com/)
 * ✉️  You can contact me at [chachowino75@gmail.com](mailto:chachowino75@gmail.com)
 * 🚀  I'm currently working on [Saruk E-commerce Store](https://www.saruk.co.ke/). The project involves completely redesigning and rebuilding the front-end store and admin dashbord using modern, fast, and secure technologies.
-* 🧠  I'm currently diving deep into React and Next, to bolster my technical knowledge of the frameworks.
 * 🤝  I'm open to collaborating on projects that aim to provide immersive and rich experiences to end users.
 * ⚡  Building software sets my heart on fire!
 
